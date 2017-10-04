@@ -6,7 +6,23 @@ Bienvenue, ô visiteur, sur le site officiel des Jeux de Rôles BCA.
 
 « Les Jeux de Rôles BCA », c'est un **système de jeux de rôles** presque générique et **deux univers** indépendants. _« Presque »_ générique, parce que le système est légèrement adapté aux spécificités de chaque univers, pour une meilleure adéquation et une meilleure ambiance.
 
-## À qui s'adressent ces jeux ?
+## À qui s’adressent ces jeux ?
+
+### Vous êtes au bon endroit si…
+
+- Vous désirez un univers **où tout est possible**.
+- Vous cherchez un jeu de rôles aux règles **simples** et **efficaces**.
+- Vous détestez passer plus d'une demi-heure sur le remplissage d'une fiche de personnage.
+
+### Ça ne vous intéressera probablement pas si…
+
+- Vous voulez un jeu d'horreur ou policier.
+- Vous cherchez la simulation la plus précise possible.
+- Votre dada est de créer le personnage qui abuse le plus possible des possibilités offertes par les règles.
+- Vous adorez les combats tactiques.
+- Vous voulez jouer des personnages quasi-divins.
+
+### Plus de précisions ?
 
 Je dirais bien « à tous, profitez-en ! » mais ce serait légèrement mensonger. Le système et les univers sont conçus ainsi :
 
