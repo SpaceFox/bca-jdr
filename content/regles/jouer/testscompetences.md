@@ -45,7 +45,6 @@ La différence entre le seuil de difficulté et le nombre obtenu indique la qual
 
 De plus, le seuil de difficulté est calibré par rapport à la _situation_ et non par rapport au _personnage_ comme ça peut être le cas dans d'autre systèmes. C'est-à-dire qu'à une situation donnée va correspondre une difficulté intrinsèque, quel que soit le personnage qui décide de s'y frotter. D'où les descriptifs associés aux seuils.{{% /panel %}}
 
-
 ## Gérer les échecs
 
 Hors des combats, on considère généralement qu'en cas d'échec, rien ne se passe. Le défaut de cette approche est qu'elle ralentit l'action et l'histoire. Une version alternative consiste à **avancer dans l'échec**, par exemple en considérant que l'action a réussi mais a pris plus de temps que prévu ; ou que quelque chose d'imprévu survient.
@@ -53,3 +52,7 @@ Hors des combats, on considère généralement qu'en cas d'échec, rien ne se pa
 En cas d'échec critique, l'action prévue se passe particulièrement mal, mais la notion d'_avancer dans l'échec_ peut s'appliquer quand même. Par contre, les conséquences sont si désastreuses que le personnage aura apprit quelque chose à éviter absolument : il gagne donc **un point de vécu**.
 
 Il n'y a pas de réussite critique.
+
+## Le test en opposition
+
+Parfois un personnage ne doit pas faire face à une difficulté fixe, mais à une action d'un autre personnage – joueur ou non. On peut alors faire un **test en opposition** : chaque personnage fait le même test de compétence, mais il n'y a pas de seuil de difficulté. C'est le personnage qui réalise le plus gros score qui gagne.
