@@ -5,6 +5,7 @@ DefaultContentLanguage = "fr"
 title = "Les Jeux de Rôles BCA"
 theme = "docdock"
 themesdir = "themes"
+showVisitedLinks = true
 
 [params]
 editURL = "https://github.com/SpaceFox/bca-jdr/edit/master/content/"
@@ -12,7 +13,7 @@ noHomeIcon = false # default is false
 noSearch = false # default is false
 showVisitedLinks = true # default is false
 # themeStyle = "theme" # overide base css
-themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 
 [outputFormats.Pandoc]
@@ -28,24 +29,9 @@ notAlternative = true
   page = ["HTML", "Pandoc"]
 
 [[menu.shortcuts]]
-pre = "<h3>More</h3>"
-name = "<i class='fa fa-github'></i> Github repo"
+pre = "<h3>Et aussi…</h3>"
+name = "<i class='fa fa-github'></i> Proposer une modification"
 identifier = "ds"
-url = "https://github.com/vjeantet/hugo-theme-docdock"
+url = "https://github.com/SpaceFox/bca-jdr/issues"
 weight = 10
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-camera'></i> Showcases"
-url = "/showcase"
-weight = 11
-
-[[menu.shortcuts]]
-name = "<i class='fa fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
-
-[[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> Credits"
-url = "/credits"
-weight = 30
