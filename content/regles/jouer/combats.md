@@ -34,6 +34,14 @@ Si toi, lecteur ou lectrice, a une idée de système de combat plus efficace que
 
 ## Attaquer
 
+L'attaquant doit réussir un test de combat dont le seul de difficulté est la capacité de défense de l'adversaire.
+
+Si l'attaquant touche, il inflige un nombre de points de dégâts égal aux **dégâts de l'arme + la marge de réussite**, celle-ci étant la diférence entre le résultat du test et le seuil de difficulté. Les dégâts de l'arme sont donc les dégâts minimaux garantis – sauf armure ou autre, cf le paragraphe suivant.
+
+Les dégâts infligés sont les dégâts **maximaux**, l'attaquant peut parfaitement retenir son coup s'il le désire.
+
+Les effets spécifiques, comme la localisation des blessures, la visée ou l'attaque d'un élément inerte sont laissés à l'appréciation du maitre du jeu.
+
 ## Gestion de l'armure et ce genre de choses
 
 ## La fin d'un combat
