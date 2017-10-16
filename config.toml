@@ -35,3 +35,7 @@ identifier = "ds"
 url = "https://github.com/SpaceFox/bca-jdr/issues"
 weight = 10
 
+[[menu.shortcuts]]
+name = "<i class='fa fa-legal'></i> Informations légales"
+url = "/licence"
+weight = 20
