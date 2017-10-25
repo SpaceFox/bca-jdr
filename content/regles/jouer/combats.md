@@ -34,16 +34,41 @@ Si toi, lecteur ou lectrice, a une idée de système de combat plus efficace que
 
 ## Attaquer
 
-L'attaquant doit réussir un test de combat dont le seul de difficulté est la capacité de défense de l'adversaire.
+L'attaquant doit réussir un test de combat dont le seul de difficulté est la capacité de défense de l'adversaire. Les historiques, atouts et handicaps s'appliquent à ce jet, de la même manière qu'aux jets hors combat.
 
-Si l'attaquant touche, il inflige un nombre de points de dégâts égal aux **dégâts de l'arme + la marge de réussite**, celle-ci étant la diférence entre le résultat du test et le seuil de difficulté. Les dégâts de l'arme sont donc les dégâts minimaux garantis – sauf armure ou autre, cf le paragraphe suivant.
+Si l'attaquant touche, il inflige un nombre de points de dégâts égal aux **dégâts de l'arme + la marge de réussite**, celle-ci étant la différence entre le résultat du test et le seuil de difficulté. Les dégâts de l'arme sont donc les dégâts minimaux garantis – sauf armure ou autre, cf le paragraphe suivant.
 
 Les dégâts infligés sont les dégâts **maximaux**, l'attaquant peut parfaitement retenir son coup s'il le désire.
 
 Les effets spécifiques, comme la localisation des blessures, la visée ou l'attaque d'un élément inerte sont laissés à l'appréciation du maitre du jeu.
 
+{{% panel theme="info" header="Exemples" %}}
+MUR-E, un robot de nettoyage (4 en attaque), tente te direr au pistolet laser sur un extraterrestre visqueux (12 en esquive). Il n'a aucun modificateur applicable.  
+Son `1d12` donne 7, son jet d'attaque vaut donc _7 (dé) + 4 (attaque) = 11_ : c'est inférieur à 12, il loupe.
+
+Jade (8 en attaque) tente de frapper le soldat (14 en défense) avec son bâton énergétique. Elle manie cette arme depuis toute petite et en a une bonne habitude, ce qui se traduit par un +2 pour l'utiliser. De plus, elle est légèrement blessée, ce qui lui donne un handicap de -1. 
+Son `1d12` donne 9, son jet d'attaque vaut donc _10 (dé) + 8 (attaque) + 2 (historique) - 1 (blessures) = 19_ : c'est supérieur à 14, elle blesse donc le soldat.  
+Son bâton fait 9 de dégâts de base, elle inflige donc : _9 (base) + 19 (jet d'attaque) - 14 (défense) = 9 + 5 = 14_ points de dégâts au soldat.
+{{% /panel %}}
+
 ## Gestion de l'armure et ce genre de choses
+
+L'armure peut avoir deux types d'effets :
+
+1. **Augmenter la défense** : son porteur est plus difficile à toucher de façon à ce qu'il soit blessé. Porter ce type d'armure donne donc un **bonus à la défense**.
+2. **Réduire les dégâts** : son porteur n'est pas plus difficile à toucher ni même à blesser, mais les blessures reçues sont moins graves. Porter ce type d'armure **réduit les dégâts reçus**.
+
+Quel que soit l'univers, une protection peut vite être lourde et est rarement très rapide à mettre ou enlever. Une protection efficace a probablement des effets secondaires gênants, comme entraver les mouvements ou se révéler fort peu discrète.
+
+Le maitre du jeu soucieux de cohérence et de réalisme peut affiner ces règles. Quelques pistes de réflexion :
+
+- Une même armure peut augmenter la défense _et_ réduire les dégâts (attention à ce que le personnage reste exposé au minimum au danger !)
+- Les différents types d'armes ne réagissent pas forcément pareil face à une même armure. Une protection peut se révéler inefficace contre certains types d'armes.
+
+On pourrait ainsi multiplier les règles à l'infini et donner, pour chaque univers, d'immenses tableaux d'armures et protections. Ce n'est pas le but de ce système ; par défaut les univers seront présentés avec les seuls deux effets standard. Au maitre du jeu d'affiner ce point selon la dynamique de combat qu'il souhaite avoir.
 
 ## La fin d'un combat
 
-Les combats sont rarement à mort.
+Un personnage – joueur ou non – gravement blessé ou dans un état critique subit de tels malus à toutes ses actions qu'il devient très difficile pour lui de se battre.
+
+Subsequemment, un personnage blessé, s'il en a l'occasion et l'intelligence, choisira probablement la fuite ou la reddition plutôt que se battre à mort.
