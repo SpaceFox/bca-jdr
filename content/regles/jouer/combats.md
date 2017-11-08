@@ -34,7 +34,7 @@ Si toi, lecteur ou lectrice, a une idée de système de combat plus efficace que
 
 ## Attaquer
 
-L'attaquant doit réussir un test de combat dont le seul de difficulté est la capacité de défense de l'adversaire. Les historiques, atouts et handicaps s'appliquent à ce jet, de la même manière qu'aux jets hors combat.
+L'attaquant doit réussir un test de combat dont le seuil de difficulté est la capacité de défense de l'adversaire. Les historiques, atouts et handicaps s'appliquent à ce jet, de la même manière qu'aux jets hors combat.
 
 Si l'attaquant touche, il inflige un nombre de points de dégâts égal aux **dégâts de l'arme + la marge de réussite**, celle-ci étant la différence entre le résultat du test et le seuil de difficulté. Les dégâts de l'arme sont donc les dégâts minimaux garantis – sauf armure ou autre, cf le paragraphe suivant.
 
